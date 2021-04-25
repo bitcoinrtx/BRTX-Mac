@@ -1,15 +1,27 @@
-bitcoin RTX
+For Mac Users
 
-How to use Mac Miner and Linux Miner.
+1. Before Download, Turn off security option of Web browsers.  Refer https://www.guidingtech.com/unblock-downloads-chrome/
 
-Open Terminal
+2. Go to bitcoinrtx.com and click MAC OSX 
 
-Cd downloads and type -> chmod 777 minerd (if permission denied)
+3. Linked to https://github.com/bitcoinrtx/BRTX-Mac
 
-Get your adrdess in BRTX wallet app
+4. Download ZIP
 
-Type followings ./brtxminer_mac -a sha256d -o stratum+tcp://us-east01.miningrigrentals.com:3333 -u bitcoinrtx.190144 -p PASTEYOURADDRESSHERE
+5. Unzip BRTX-Mac.zip and double Click
 
-Join in forum.
+6. Double Click BRTXWallet-Mac file and unlock install      (https://www.macworld.co.uk/how-to/mac-app-unidentified-developer-3669596/)
 
-https://t.me/bitcioinrtx
+7. In the wallet, Click Receive and make address and copy it
+
+8. Open terminal and cd BRTX-Mac-main and cd BRTX-Mac
+
+9. Typing -> chmod 777 BRTXMiner-Mac
+
+10. Typing -> ./BRTXMiner-Mac -a sha256d -o stratum+tcp://us-east01.miningrigrentals.com:3333 -u bitcoinrtx.190144 -p PASTEYOURADDRESSHERE
+
+11. Change PASTEYOURADDRESSHERE to your real wallet address
+
+12.  Unlock install again     (https://www.macworld.co.uk/how-to/mac-app-unidentified-developer-3669596/)
+
+13. Congratulations! Now join Forum. If miner is on all day, you will get 1 BRTX everyday in Season 1 https://t.me/bitcioinrtx
